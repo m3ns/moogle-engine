@@ -23,7 +23,7 @@ The project includes:
 * Logo displayed above the search bar
 * Search bar centered on the homepage
 * Simple and lightweight user interface
-  ![Homepage](screenshots/home.png)
+  ![Homepage](screenshots/homepage.png)
 
 ### Dashboard
 
@@ -70,7 +70,7 @@ Example fields:
 * `content`
 * `approved`
 * `tags`
-![Search Results](screenshots/searchresult.png)
+![Search Results](screenshots/searchpage.png)
 
 ---
 
