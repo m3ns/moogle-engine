@@ -70,7 +70,7 @@ Example fields:
 * `content`
 * `approved`
 * `tags`
-![Search Results](screenshots/searchpage.png)
+![Search Results](screenshots/searchresult.png)
 
 ---
 
