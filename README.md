@@ -23,6 +23,7 @@ The project includes:
 * Logo displayed above the search bar
 * Search bar centered on the homepage
 * Simple and lightweight user interface
+  
   ![Homepage](screenshots/homepage.png)
 
 ### Dashboard
@@ -48,6 +49,7 @@ Administrators and moderators have access to a moderation dashboard where they c
 
 * Can add, edit, and remove links
 * Can use existing tags when creating links
+  
 ![Dashboard](screenshots/dashboard.png)
 
 ---
@@ -70,6 +72,7 @@ Example fields:
 * `content`
 * `approved`
 * `tags`
+  
 ![Search Results](screenshots/resultpage.png)
 
 ---
