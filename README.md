@@ -61,7 +61,6 @@ Each indexed link contains:
 * URL
 * Title
 * Description
-* Optional content
 * Tags
 * Approval status
 
@@ -69,7 +68,6 @@ Example fields:
 
 * `title`
 * `description`
-* `content`
 * `approved`
 * `tags`
   
@@ -83,7 +81,7 @@ Example fields:
 
 #### GET `/api/search?q=example`
 
-Search indexed links using tags.
+Search indexed links using title, description, tags.
 
 Example request:
 
@@ -114,7 +112,6 @@ Example request body:
   "url": "https://example.com",
   "title": "Example Title",
   "description": "Example Description",
-  "content": "Example Content",
   "tags": ["Social", "Forum"]
 }
 ```
